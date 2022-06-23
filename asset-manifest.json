@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tech-portfolio--react/static/css/main.d2ade0e7.css",
+    "main.js": "/tech-portfolio--react/static/js/main.f07e4499.js",
+    "static/media/profile-photo.png": "/tech-portfolio--react/static/media/profile-photo.2612f48427be5f85d357.png",
+    "index.html": "/tech-portfolio--react/index.html",
+    "main.d2ade0e7.css.map": "/tech-portfolio--react/static/css/main.d2ade0e7.css.map",
+    "main.f07e4499.js.map": "/tech-portfolio--react/static/js/main.f07e4499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2ade0e7.css",
+    "static/js/main.f07e4499.js"
+  ]
+}
