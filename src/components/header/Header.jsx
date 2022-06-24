@@ -17,16 +17,16 @@ const Header = () => {
         <img className='w-44 h-44 mt-8 rounded shadow-xl mb-8' src={ProfilePhoto} alt="Profile Photo" />
       </div>
       <div className='flex flex-row justify-center'>
-        <div className='flex justify-center mr-4 w-8 h-8 mt-8'>
+        <div className='flex justify-center mr-4 w-8 h-8 mt-8 hover:cursor-pointer'>
           {/* <FontAwesomeIcon icon="fa-brands fa-linkedin" /> */}
           <i className="fa-brands fa-github-square fa-2xl text-gray-500"></i>
         </div>
-        <div className='flex justify-center ml-4 w-8 h-8 mt-8'>
+        <div className='flex justify-center ml-4 w-8 h-8 mt-8 hover:cursor-pointer'>
           {/* <FontAwesomeIcon icon="fa-brands fa-github-square" /> */}
           <i class="fa-brands fa-linkedin fa-2xl text-gray-500"></i>
         </div>
       </div>
-      <div className='flex justify-center'>
+      <div className='flex justify-center hover:cursor-pointer'>
         <i class="fa-solid fa-chevron-down"></i>
       </div>
       
