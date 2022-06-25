@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/tech-portfolio--react/static/css/main.d2ade0e7.css",
-    "main.js": "/tech-portfolio--react/static/js/main.f07e4499.js",
+    "main.css": "/tech-portfolio--react/static/css/main.85352676.css",
+    "main.js": "/tech-portfolio--react/static/js/main.a5499f1c.js",
     "static/media/profile-photo.png": "/tech-portfolio--react/static/media/profile-photo.2612f48427be5f85d357.png",
+    "static/media/CV - Adala Wanyande.pdf": "/tech-portfolio--react/static/media/CV - Adala Wanyande.75411b3f966219e2c1a2.pdf",
     "index.html": "/tech-portfolio--react/index.html",
-    "main.d2ade0e7.css.map": "/tech-portfolio--react/static/css/main.d2ade0e7.css.map",
-    "main.f07e4499.js.map": "/tech-portfolio--react/static/js/main.f07e4499.js.map"
+    "main.85352676.css.map": "/tech-portfolio--react/static/css/main.85352676.css.map",
+    "main.a5499f1c.js.map": "/tech-portfolio--react/static/js/main.a5499f1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2ade0e7.css",
-    "static/js/main.f07e4499.js"
+    "static/css/main.85352676.css",
+    "static/js/main.a5499f1c.js"
   ]
 }
