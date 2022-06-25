@@ -20,13 +20,13 @@ const Header = () => {
         <div className='flex justify-center mr-4 w-8 h-8 mt-8 hover:cursor-pointer'>
           {/* <FontAwesomeIcon icon="fa-brands fa-linkedin" /> */}
           <a href="https://www.github.com/Adala-Wanyande">
-            <i className="fa-brands fa-github-square fa-2xl text-gray-500"></i>
+            <i className="fa-brands fa-github-square fa-2xl text-gray-500 hover:text-gray-400"></i>
           </a>
         </div>
         <div className='flex justify-center ml-4 w-8 h-8 mt-8 hover:cursor-pointer'>
           {/* <FontAwesomeIcon icon="fa-brands fa-github-square" /> */}
           <a href="https://www.linkedin.com/in/benard-adala-wanyande-6570b4238">
-            <i class="fa-brands fa-linkedin fa-2xl text-gray-500"></i>
+            <i class="fa-brands fa-linkedin fa-2xl text-gray-500 hover:text-gray-400"></i>
           </a>
         </div>
       </div>
