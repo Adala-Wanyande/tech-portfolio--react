@@ -5,7 +5,7 @@ import ProfilePhoto from '../../assets/profile-photo.png'
 
 const Header = () => {
   return (
-    <div className='flex flex-col rounded shadow-xl justify-center bg-slate-50 p-8 space-y-4 mt-16 mx-8 lg:mx-16'>
+    <div className='flex flex-col rounded shadow-xl justify-center bg-slate-50 p-8 space-y-4 mt-16 mx-8'>
       <h2 className='text-base text-center font-medium text-slate-500'>Hi👋,</h2>
       <h1 className='text-2xl text-center font-bold'>I'm Adala Wanyande</h1>
       <h3 className='text-base text-center font-medium text-slate-500'>Full Stack Developer</h3>
