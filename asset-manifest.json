@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tech-portfolio--react/static/css/main.12efe7ff.css",
-    "main.js": "/tech-portfolio--react/static/js/main.ff35705d.js",
+    "main.js": "/tech-portfolio--react/static/js/main.f3e0addc.js",
     "static/media/profile-photo.png": "/tech-portfolio--react/static/media/profile-photo.2612f48427be5f85d357.png",
-    "static/media/CV - Adala Wanyande.pdf": "/tech-portfolio--react/static/media/CV - Adala Wanyande.75411b3f966219e2c1a2.pdf",
+    "static/media/CV - Adala Wanyande.pdf": "/tech-portfolio--react/static/media/CV - Adala Wanyande.1aff17130a095fc17921.pdf",
     "index.html": "/tech-portfolio--react/index.html",
     "main.12efe7ff.css.map": "/tech-portfolio--react/static/css/main.12efe7ff.css.map",
-    "main.ff35705d.js.map": "/tech-portfolio--react/static/js/main.ff35705d.js.map"
+    "main.f3e0addc.js.map": "/tech-portfolio--react/static/js/main.f3e0addc.js.map"
   },
   "entrypoints": [
     "static/css/main.12efe7ff.css",
-    "static/js/main.ff35705d.js"
+    "static/js/main.f3e0addc.js"
   ]
 }
