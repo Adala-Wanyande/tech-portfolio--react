@@ -11,18 +11,18 @@ const About = () => {
       <h1 className='text-2xl text-center font-bold'>About Me</h1>
       <div className='flex flex-col md:flex-row'>
         <div className='flex justify-center items-center border-b-2 mb-6'>
-          <img className='w-44 h-44 mt-8 rounded shadow-xl mb-8' src={ProfilePhoto} alt="Profile Photo" />
+          <img className= 'w-44 h-44 mt-8 rounded shadow-xl mb-8' src={ProfilePhoto} alt="Profile Photo" />
         </div>
         <div className='flex flex-row space-x-4 justify-center text-white border-b-2'>
           <div className='rounded flex flex-col justify-center grid justify-items-center bg-gray-700 p-4 w-[9rem] drop-shadow-xl  mb-6'>
             <FaAward />
             <p className='text-sm font-bold my-2'>Experience</p>
-            <p className='text-xs text-center'>1 Month Developer Experience</p>
+            <p className='text-xs text-center font-extralight'>1 Month Developer Experience</p>
           </div>
           <div className='rounded flex flex-col justify-center grid justify-items-center bg-gray-700 p-4 w-[9rem] drop-shadow-xl  mb-6'>
             <MdFolderSpecial />
             <p className='text-sm font-bold my-2'>Projects</p>
-            <p className='text-xs'>2 Completed</p>
+            <p className='text-xs font-extralight'>2 Completed</p>
           </div>    
         </div>
       </div>
