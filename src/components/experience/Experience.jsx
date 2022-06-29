@@ -3,7 +3,7 @@ import {BsPatchCheckFill} from 'react-icons/bs'
 
 const Experience = () => {
   return (
-    <div id='about' className='flex flex-col rounded shadow-xl justify-center bg-slate-50 p-8 space-y-4 mt-16 mx-8'>
+    <div id='experience' className='flex flex-col rounded shadow-xl justify-center bg-slate-50 p-8 space-y-4 mt-16 mx-8'>
       <h2 className='text-base text-center font-medium text-slate-500'>What skills I have</h2>
       <h1 className='text-2xl text-center font-bold'>My Experience</h1>
       <div className='flex flex-col justify-center text-gray-800 grid justify-items-center md:flex md:flex-row md:space-x-4 lg:space-x-16 border-b-2 md:border-b-0'>

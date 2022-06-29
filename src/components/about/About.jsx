@@ -53,7 +53,7 @@ const About = () => {
         </div>
       </div>
         
-        <a href="#about">
+        <a href="#experience">
           <div className='flex justify-center hover:cursor-pointer pt-4 h-8 animate-bounce'>
             <svg className='hover:animate-spin hover:w-8 hover:h-8 text-gray-400' width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M17 13L12 17L7 13" stroke="#4A4B57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
