@@ -27,23 +27,23 @@ const About = () => {
             </div>    
           </div>
         </div>
-        <div className='mt-2 mb-4 text-xs font-extralight text-center space-y-4 p-4 md:w-[50%] md:p-16'>
-          <p className='text-gray-500'>
+        <div className='mt-2 mb-4 text-xs font-extralight text-center p-4 md:w-[50%] md:p-16'>
+          <p className='text-gray-500 my-4'>
             Hi, I'm Adala Wanyande from Nairobi persuing a bachelor's degree in Informatics
             and Computer Science at Strathmore University. I am glad to see that you clicked 
             on my portfolio.
           </p>
-          <p className='text-gray-500'>
+          <p className='text-gray-500 my-4'>
             I am currently in my third year with one more year left. Whew! I started my software
             development journey back in high school when my Computer Studies teacher taught
             us C++ for fun and I have been hooked to programming ever since.
           </p>
-          <p className='text-gray-500'>
+          <p className='text-gray-500 my-4'>
             Some of the technologies I am well versed in include: Java, JavaScript & 
             JavaScript frameworks like React, PHP and PHP frameworks like Laravel &
             CodeIgniter4.
           </p>
-          <p className='text-gray-500'>
+          <p className='text-gray-500 mt-4 mb-8'>
             I build projects during my free time like this portfolio you are going through.
             Check my <a href="https://www.github.com/Adala-Wanyande"><span className='text-sky-500'>Github profile </span></a> 
             out to see some more of my projects. I also enjoy going to the gym, playing 
