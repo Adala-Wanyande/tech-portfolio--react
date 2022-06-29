@@ -7,7 +7,7 @@ import {AiFillMessage} from 'react-icons/ai'
 
 const Nav = () => {
   return (
-    <nav className='block fixed p-4 p-4 -translate-y-[25rem] translate-x-[1rem] flex flex-col space-y-4 lg:space-y-8 rounded-full bg-gray-800 w-10 shadow-xl p-4 text-white'>
+    <nav className='z-20 block fixed p-4 p-4 -translate-y-[25rem] translate-x-[1rem] flex flex-col space-y-4 lg:space-y-8 rounded-full bg-gray-800 w-10 shadow-xl p-4 text-white'>
       <a href="#" className='self-center'><FaHome/></a>
       <a href="#about" className='self-center'><FaUser/></a>
       <a href="#experience" className='self-center'><FaBook/></a>

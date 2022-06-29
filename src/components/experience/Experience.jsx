@@ -8,9 +8,9 @@ const Experience = () => {
       <h1 className='text-2xl text-center font-bold'>My Experience</h1>
       <div className='flex flex-col justify-center text-gray-800 grid justify-items-center md:flex md:flex-row md:space-x-4 lg:space-x-16 border-b-2 md:border-b-0'>
             <div className='rounded flex flex-col justify-center grid justify-items-center bg-gray-300 px-8 drop-shadow-xl mt-4 mb-6 pb-6 hover:bg-gray-200'>
-              <p className='text-sm font-bold my-4 text-center'>Frontend Development</p>
+              <p className='text-sm font-bold my-4 text-center underline underline-offset-8'>Frontend Development</p>
               <div>
-                <ul className='grid grid-cols-2 gap-x-4'>
+                <ul className='grid grid-cols-2 gap-x-4 font-extralight'>
                   <li className='w-full flex flex-row text-sm my-2 space-x-2 justify-left'>
                     <BsPatchCheckFill className='mt-1'/>
                     <p>HTML</p>
@@ -43,10 +43,10 @@ const Experience = () => {
               </div>
             </div>
             <div className='rounded flex flex-col justify-center grid justify-items-center bg-gray-300 px-8 drop-shadow-xl mt-4 mb-6 pb-6 hover:bg-gray-200'>
-              <p className='text-sm font-bold my-4 text-center'>Backend Development</p>
+              <p className='text-sm font-bold my-4 text-center underline underline-offset-8'>Backend Development</p>
               <div>
-                <ul className='grid grid-cols-2 gap-x-4'>
-                  <li className='w-full flex flex-row text-sm my-2 space-x-2 justify-left'>
+                <ul className='grid grid-cols-2 gap-x-4 font-extralight'>
+                  <li className='w-full flex flex-row text-sm  my-2 space-x-2 justify-left'>
                     <BsPatchCheckFill className='mt-1'/>
                     <p>Java</p>
                   </li>
