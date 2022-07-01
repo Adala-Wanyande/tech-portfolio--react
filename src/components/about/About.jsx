@@ -62,7 +62,7 @@ const About = () => {
               <path d="M17 13L12 17L7 13" stroke="#4A4B57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
               <path d="M17 7L12 11L7 7" stroke="#4A4B57" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
             </svg>
-          </div>
+          </div>         
         </a>
       </div>
   )

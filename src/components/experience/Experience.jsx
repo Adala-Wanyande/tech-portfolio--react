@@ -78,6 +78,9 @@ const Experience = () => {
             </svg>
           </div>
         </a>
+        <div className='flex justify-center hover:cursor-pointer pt-4 h-8 animate-bounce'>
+            <p className='text-base'>More on the way...</p>
+          </div>
       </div>
   )
 }
